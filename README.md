@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shohan-joarder
-- 👀 I’m interested in PHP, Laravel, Codeigniter, Javascript, jquery
+- 👀 I’m interested in PHP, Laravel, Codeigniter, Javascript, jquery, Bootstrap
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me jshohan887@gmail.com
